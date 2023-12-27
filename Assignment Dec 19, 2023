@@ -1,0 +1,31 @@
+1. Import the random module and generate a random number between 1 and 100. Write code to ask the user to guess the number within 5 tries. Give them hints if their guess is too high or too low.
+   Bonus: Can you add a scoring system where the user gets more points for guessing the number in fewer tries?	
+
+2. Create a text file named "fruits.txt" and write your favorite fruits (one per line) to the file.
+
+3. Define a function that takes a name as input and returns a greeting message like "Hello, [name]!". Call the function with your name and print the returned message.
+   Bonus: Can you modify the function to greet the user differently based on the time of day (e.g., "Good morning" in the morning)?
+
+4. Write code to extract all the numbers from a string like "Hello 123 World 456!" and store them in a list.
+
+5. Write a function that takes a string as input and returns a new string with the characters reversed.
+
+6. Write code to count the number of times each letter appears in a given sentence and print the letter that occurs the most often.
+
+7. Write a program that prints a square of stars using nested loops. For example, if the user inputs 5, print a 5x5 square of stars.
+
+8. Write code that takes the user's favourite day of the week as input and prints a different message based on the chosen day (e.g., "Happy Monday!" or "Relaxing Sunday!").
+
+9. Write a program that converts a temperature from Celsius to Fahrenheit or vice versa based on the user's choice.
+
+10. Write a program that helps the user track their expenses and income for a week. Allow them to add new entries, remove entries, and calculate their total spending and remaining budget.
+
+11. Instead of generating a random number, write a program that guesses a number chosen by the user by asking yes/no questions about its range and divisibility properties.
+
+12. Write code to remove specific elements from a list based on certain conditions (e.g., remove all even numbers, remove elements shorter than 5 characters).
+
+13. Write code that takes a string and counts the number of vowels and consonants it contains.
+
+14. Write a program that converts a sentence into Pig Latin. In Pig Latin, you move the first letter of each word to the end and add "ay". For example, "Hello world" becomes "elloHay orldway".
+
+15. Write a program that lets the user add and remove items from a shopping list stored in a list.
