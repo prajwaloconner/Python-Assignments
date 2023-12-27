@@ -1,0 +1,36 @@
+1. Create a program that checks if a given string is a palindrome (reads the same backward as forward).
+
+2. Write a program to check if two strings are anagrams (contain the same letters in different arrangements).
+
+3. Write a program to find all duplicate characters in a string.
+
+4. Write a program to find the most frequent character in a string.
+
+5. Write a program to check if a string is a pangram (contains all letters of the alphabet).
+
+6. Write a Python program to extract email addresses from a given text string using regular expressions.
+
+7. Implement the Collatz conjecture algorithm using a loop:
+   a. Start with any positive integer n.
+   b. If n is even, divide it by 2.
+   c. If n is odd, multiply it by 3 and add 1.
+   d. Repeat the process until n reaches 1.
+
+8. Create a program that adds line numbers to each line of a text file and saves the results to a new file.
+
+9. Create a program that reverses the order of lines in a text file.
+
+10. Write a program to read data from a CSV (comma-separated values) file and print it in a structured format.
+
+11. Write a program that interacts with a database file (e.g., SQLite) to store and retrieve data.
+
+12. Write a program that prompts the user to enter a number and then divides 10 by that number. (handle exceptions)
+
+13. Create a program that asks the user to enter a word. Use exception handling to handle both TypeError (if they enter a number) and ValueError (if the word is too long. Max length=50).
+
+14. Create a program that simulates a file opening process. Use nested exception blocks to handle different potential errors:
+    a. File not found
+    b. Permission denied
+    c. Invalid file format
+
+15. Write a program that opens a file, reads its contents, and then closes the file. Use a finally block to ensure the file is always closed, even if an error occurs during reading.
